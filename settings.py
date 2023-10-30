@@ -13,7 +13,7 @@ words = [
     "maple", "medal", "metal", "music", "novel",
     "oasis", "ocean", "order", "peace", "pearl",
     "piano", "plume", "pride", "quill", "rider",
-    "robin", "saint", "savor", "scale", "shadow",
+    "robin", "saint", "savor", "scale",
     "shore", "sight", "siren", "smile", "spark",
     "spike", "spine", "sugar", "sunny", "swirl",
     "sword", "table", "tiger", "torch", "tower",
